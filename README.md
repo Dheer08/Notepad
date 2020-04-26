@@ -1,5 +1,5 @@
 # Notepad
-A Notepad Designed in Java
+A Notepad Designed in Java using Swing
 ### Instruction to run the application
     1.Make sure java JDK is installed in the computer
     2.java Notepad.java
