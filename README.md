@@ -5,3 +5,4 @@ A Notepad Designed in Java using Swing
     2.java Notepad.java
 
 ![Demo of the application](demo.png)
+![New File](Demo.png)
