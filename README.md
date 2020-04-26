@@ -4,4 +4,4 @@ A Notepad Designed in Java using Swing
     1.Make sure java JDK is installed in the computer
     2.java Notepad.java
 
-![Demo of the application](Demo.png)
+![Demo of the application](demo.png)
